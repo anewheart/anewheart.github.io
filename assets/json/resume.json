@@ -127,30 +127,3 @@
       "description": "One week workshop on incoherent scatter radar by NSF, including running an experiment at the Arecibo Observatory"
     }
   ],
-  "publications": [
-    {
-      "title": "VLF electric field observations of orbit-driven plasma waves in low earth orbit",
-      "journal": "Advances in Space Research",
-      "year": "2025",
-      "authors": ["J. Hughes", "I. Collett", "C. Nasr", "A. M. Newheart", "R. Kelley", "et al."]
-    },
-    {
-      "title": "The long-term trend of thermospheric compositions from whole atmospheric simulation and satellite observation",
-      "journal": "JGR: Space Physics",
-      "year": "2025",
-      "authors": ["C.-T. Hsu", "W. Wang", "L. Qian", "E. Aa", "J. M. McInerney", "S.-R. Zhang", "Y. Zhang", "A. M. Newheart", "D. Lin"]
-    },
-    {
-      "title": "Plasma irregularities at the equator mission concept",
-      "journal": "Advances in Space Research",
-      "status": "under review",
-      "year": "2025",
-      "authors": ["A. M. Newheart", "J. Noto", "S. Thaller", "I. Collett", "C. Nasr", "J. Hughes", "L. Anderson", "L. Howard", "C. Swenson", "F. Gasperini"]
-    },
-    {
-      "title": "Observations of night-time equatorial ionosphere structure with the fpmu on board the international space station",
-      "journal": "Journal of Geophysical Research: Space Physics",
-      "volume": "127",
-      "doi": "10.1029/2022JA030373",
-      "year": "2022",
-      "authors": ["A. M. Newheart", "S. Sazykin", "V. N. Coffey", "M. O
