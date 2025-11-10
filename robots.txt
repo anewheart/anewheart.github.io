@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://anewheart.github.io/sitemap.xml
