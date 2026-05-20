@@ -13,8 +13,8 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  [cite_start]email: ana.newheart@gmail.com [cite: 3]
-  [cite_start]phone: 443-538-8049 [cite: 3]
+  [cite_start]email:
+  [cite_start]phone:
   timezone: America/Denver
   citizenship:
   website: 
