@@ -17,10 +17,10 @@ sidebar:
   phone:
   timezone: America/Denver
   citizenship:
-  website: 
-  linkedin: https://www.linkedin.com/in/newheart/
+  website: https://scholar.google.com/citations?user=PtuPtgEAAAAJ&hl=en&oi=ao
+  linkedin: newheart
   xing: 
-  github: 
+  github: anewheart
   telegram: 
   gitlab:
   bitbucket:
@@ -69,6 +69,12 @@ education:
 experiences:
   title: Experience
   info:
+  - role: Research Scientist 
+    time: January 2026 - Present
+    company: NOAA Space Weather Prediction Center, contracted through Lynker 
+    details: |
+      - Assessed the performance of a data assimilation model and worked on upgrading it
+      - Analyzed scintillation data and processing methods in order to develop a scintillation data product
   - role: Ionospheric Researcher 
     time: September 2023 - December 2025
     company: Orion Space Solutions 
@@ -121,25 +127,17 @@ projects:
     Research funding, academic awards, and fellowships received.
   assignments:
   - title: Commercial Smallsat Data Acquisition New Vendor Onramp Evaluation Grant 
-    link: "#"
     tagline: "$100,000 over one year to evaluate commercial radio occultation data for NASA. (September 2024)"
 
   - title: Future Investigators in NASA Earth and Space Science and Technology Grant
-    link: "#"
     tagline: "$ 135,000 over three years to fund a graduate-student designed research project. (July 2020)"
 
   - title: NASA/Texas Space Grant Consortium Graduate Fellowship 
-    link: "#"
     tagline: "$ 5000 award in recognition of excellence in academics and interest in space. (June 2019)"
 
   - title: John Mather Nobel Scholar at NASA Goddard Space Flight Center
-    link: "#"
     tagline: "$ 3000 travel award in recognition of high academic achievement and exemplary research at NASA Goddard. (July 2015)"
 
-oss:
-  title: OSS Contributions
-  intro: >
-  contributions: []
 
 publications:
   title: Publications
@@ -147,48 +145,50 @@ publications:
     Peer-reviewed journals and academic publications.
   papers:
   - title: "Stair-step particle flux spectra on the lunar surface: evidence for nonmonotonic potentials?"
-    link: "#"
+    link: "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GL071457"
     authors: M. R. Collier, A. Newheart, A. R. Poppe, H. K. Hills, and W. M. Farrell 
     conference: "Geophysical Research Letters 44, 79–87 (2017)"
 
   - title: "Prompt penetration and substorm effects over jicamarca during the september 2017 geomagnetic storm"
-    link: "#"
+    link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JA029651"
     authors: B. Fejer, L. Navarro, S. Sazykin, A. Newheart, M. Milla, and P. Condor 
     conference: "Journal of Geophysical Research: Space Physics 126, e2021JA029651 (2021)"
 
   - title: "Sun sailing polar orbiting telescope (sunspot): a solar polar imaging mission design" 
-    link: "#"
+    link: "https://www.sciencedirect.com/science/article/abs/pii/S0273117722003374"
     authors: A. Probst, T. Anderson, A. O. Farrish, C. B. Kjellstrand, A. M. Newheart, et al.
     conference: "Advances in Space Research, 10.1016/j.asr.2022.04.060 (2022)"
 
-  - title: "Observations of night-time equatorial ionosphere structure with the fpmu on board the international space station" 
-    link: "#"
+  - title: "Observations of night-time equatorial ionosphere structure with the FPMU on board the international space station" 
+    link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA030373"
     authors: A. M. Newheart, S. Sazykin, V. N. Coffey, M. O. Chandler, A. J. Coster, B. G. Fejer, J. I. Minow, and C. M. Swenson
     conference: "Journal of Geophysical Research: Space Physics 127, 10.1029/2022JA030373 (2022)"
 
   - title: "N-dimensional lomb scargle periodogram analysis of traveling ionospheric disturbances using ionosonde data" 
-    link: "#"
+    link: "https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2024.1519436/full"
     authors: J. Hughes, I. Collett, A. Newheart, R. Kelly, W. Wilson, et al. 
     conference: "Front. Astron. Space Sci. 11, 10.3389/fspas.2024.1519436 (2024)"
 
   - title: "Relative merits of ionosondes, ground gnss tec, and radio occultations for ionospheric data assimilation"
-    link: "#"
+    link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025RS008316"
     authors: J. Hughes, I. Collett, A. M. Newheart, C. Nasr, R. Blay, et al.
     conference: "Radio Science (under review) (2025)"
 
   - title: "Vlf electric field observations of orbit-driven plasma waves in low earth orbit" 
-    link: "#"
+    link: "https://www.sciencedirect.com/science/article/pii/S0273117725007318"
     authors: J. Hughes, I. Collett, C. Nasr, A. M. Newheart, R. Kelley, et al. 
     conference: "Advances in Space Research (2025)"
 
   - title: "The long-term trend of thermospheric compositions from whole atmospheric simulation and satellite observation" 
-    link: "#"
+    link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JA034285"
     authors: C.-T. Hsu, W. Wang, L. Qian, E. Aa, J. M. McInerney, S.-R. Zhang, Y. Zhang, A. M. Newheart, and D. Lin 
-    conference: "JGR: Space Physics (under review) (2025)"
+    conference: "JGR: Space Physics (2025)"
+    
+    - title: "Plasma irregularities at the equator mission concept" 
+    link: "https://www.sciencedirect.com/science/article/abs/pii/S027311772600390X"
+    authors: Anastasia Newheart, John Noto, Scott Thaller, Ian Collett, Camella Nasr, Joseph Hughes, Lucas Anderson, Linden Howard, Charles Swenson and Federico Gasperini
+    conference: "Advances in Space Research (2026)"
 
-recommendations:
-  title: Recommendations
-  list: []
 
 skills:
   title: Skills &amp; Proficiency
