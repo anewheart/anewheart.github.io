@@ -77,27 +77,27 @@ experiences:
       - Validated remote sensing data (40GB in netCDF format) for the NASA Commercial Satellite Data Acquisition program by comparing to existing ground- and space-based observations to climatology. 
       - Developed a CubeSat mission concept to examine mid- to low-latitude ionospheric irregularities. 
       - Used statistical methods in Python to analyze plasma wave observations and develop a space debris detection method. 
-  -  role: Advanced Study Program Postdoctoral Fellow 
-     time: October 2022 - September 2023
-     company: National Center for Atmospheric Research 
+  - role: Advanced Study Program Postdoctoral Fellow 
+    time: October 2022 - September 2023
+    company: National Center for Atmospheric Research 
     details: |
       - Investigated the effects of geomagnetic storms using a coupled whole geospace model run on a high-performance computing system and compared these results to ground-based radar observations. 
       - Examined long-term changes in the upper atmosphere using a whole atmosphere model and subtracting seasonal trends using MATLAB.
-  -  role: Graduate Research Assistant 
-     time: August 2016 - July 2022 
-     company: Rice University 
+  - role: Graduate Research Assistant 
+    time: August 2016 - July 2022 
+    company: Rice University 
     details: |
       - Used spectral methods to identify and characterize atmospheric waves in a large dataset (20-30GB per day of data in HDF5 format) from a distributed ground-based sensor network. 
       - Analyzed the occurrence of ionospheric irregularities using Langmuir probe data from multiple satellites (International Space Station Floating Potential Meter Unit, Swarm and DMSP).
       - Examined the physical drivers behind ionospheric irregularities using model-data comparison to better forecast their occurrence. 
-  -  role: DREAM2 Project Intern 
-     time: June 2014 - August 2016 
-     company: NASA Goddard Space Flight Center
+  - role: DREAM2 Project Intern 
+    time: June 2014 - August 2016 
+    company: NASA Goddard Space Flight Center
     details: |
       - Reanalyzed Apollo era plasma data from the surface of the moon and developed procedures for identifying relevant data for statistical analysis of particle spectra using MATLAB.
-  -  role: Graduate Student Association Vice President of Student Advocacy 
-     time: April 2020 - April 2021 
-     company: Rice University 
+  - role: Graduate Student Association Vice President of Student Advocacy 
+    time: April 2020 - April 2021 
+    company: Rice University 
     details: |
       - Advocated for graduate student needs at the university level including university policy decisions and development projects. 
       - Oversaw two directors within the Graduate Student Association. 
@@ -122,19 +122,19 @@ projects:
   assignments:
   - title: Commercial Smallsat Data Acquisition New Vendor Onramp Evaluation Grant 
     link: "#"
-    tagline: "$100,000 over one year to evaluate commercial radio occultation data for NASA. (September 2024) "
+    tagline: "$100,000 over one year to evaluate commercial radio occultation data for NASA. (September 2024)"
 
   - title: Future Investigators in NASA Earth and Space Science and Technology Grant
     link: "#"
-    tagline: "$ 135,000 over three years to fund a graduate-student designed research project. (July 2020) "
+    tagline: "$ 135,000 over three years to fund a graduate-student designed research project. (July 2020)"
 
   - title: NASA/Texas Space Grant Consortium Graduate Fellowship 
     link: "#"
-    tagline: "$ 5000 award in recognition of excellence in academics and interest in space. (June 2019) "
+    tagline: "$ 5000 award in recognition of excellence in academics and interest in space. (June 2019)"
 
   - title: John Mather Nobel Scholar at NASA Goddard Space Flight Center
     link: "#"
-    tagline: "$ 3000 travel award in recognition of high academic achievement and exemplary research at NASA Goddard. (July 2015) "
+    tagline: "$ 3000 travel award in recognition of high academic achievement and exemplary research at NASA Goddard. (July 2015)"
 
 oss:
   title: OSS Contributions
@@ -146,45 +146,45 @@ publications:
   intro: |
     Peer-reviewed journals and academic publications.
   papers:
-  -  title: "Stair-step particle flux spectra on the lunar surface: evidence for nonmonotonic potentials?"
+  - title: "Stair-step particle flux spectra on the lunar surface: evidence for nonmonotonic potentials?"
     link: "#"
-     authors: M. R. Collier, A. Newheart, A. R. Poppe, H. K. Hills, and W. M. Farrell 
-     conference: "Geophysical Research Letters 44, 79–87 (2017) "
+    authors: M. R. Collier, A. Newheart, A. R. Poppe, H. K. Hills, and W. M. Farrell 
+    conference: "Geophysical Research Letters 44, 79–87 (2017)"
 
-  -  title: "Prompt penetration and substorm effects over jicamarca during the september 2017 geomagnetic storm"
+  - title: "Prompt penetration and substorm effects over jicamarca during the september 2017 geomagnetic storm"
     link: "#"
-     authors: B. Fejer, L. Navarro, S. Sazykin, A. Newheart, M. Milla, and P. Condor 
-     conference: "Journal of Geophysical Research: Space Physics 126, e2021JA029651 (2021) "
+    authors: B. Fejer, L. Navarro, S. Sazykin, A. Newheart, M. Milla, and P. Condor 
+    conference: "Journal of Geophysical Research: Space Physics 126, e2021JA029651 (2021)"
 
-  -  title: "Sun sailing polar orbiting telescope (sunspot): a solar polar imaging mission design" 
+  - title: "Sun sailing polar orbiting telescope (sunspot): a solar polar imaging mission design" 
     link: "#"
-     authors: A. Probst, T. Anderson, A. O. Farrish, C. B. Kjellstrand, A. M. Newheart, et al.
-     conference: "Advances in Space Research, 10.1016/j.asr.2022.04.060 (2022)"
+    authors: A. Probst, T. Anderson, A. O. Farrish, C. B. Kjellstrand, A. M. Newheart, et al.
+    conference: "Advances in Space Research, 10.1016/j.asr.2022.04.060 (2022)"
 
-  -  title: "Observations of night-time equatorial ionosphere structure with the fpmu on board the international space station" 
+  - title: "Observations of night-time equatorial ionosphere structure with the fpmu on board the international space station" 
     link: "#"
-     authors: A. M. Newheart, S. Sazykin, V. N. Coffey, M. O. Chandler, A. J. Coster, B. G. Fejer, J. I. Minow, and C. M. Swenson
-     conference: "Journal of Geophysical Research: Space Physics 127, 10.1029/2022JA030373 (2022) "
+    authors: A. M. Newheart, S. Sazykin, V. N. Coffey, M. O. Chandler, A. J. Coster, B. G. Fejer, J. I. Minow, and C. M. Swenson
+    conference: "Journal of Geophysical Research: Space Physics 127, 10.1029/2022JA030373 (2022)"
 
-  -  title: "N-dimensional lomb scargle periodogram analysis of traveling ionospheric disturbances using ionosonde data" 
+  - title: "N-dimensional lomb scargle periodogram analysis of traveling ionospheric disturbances using ionosonde data" 
     link: "#"
-     authors: J. Hughes, I. Collett, A. Newheart, R. Kelly, W. Wilson, et al. 
-     conference: "Front. Astron. Space Sci. 11, 10.3389/fspas.2024.1519436 (2024)"
+    authors: J. Hughes, I. Collett, A. Newheart, R. Kelly, W. Wilson, et al. 
+    conference: "Front. Astron. Space Sci. 11, 10.3389/fspas.2024.1519436 (2024)"
 
-  -  title: "Relative merits of ionosondes, ground gnss tec, and radio occultations for ionospheric data assimilation"
+  - title: "Relative merits of ionosondes, ground gnss tec, and radio occultations for ionospheric data assimilation"
     link: "#"
-     authors: J. Hughes, I. Collett, A. M. Newheart, C. Nasr, R. Blay, et al.
-     conference: "Radio Science (under review) (2025) "
+    authors: J. Hughes, I. Collett, A. M. Newheart, C. Nasr, R. Blay, et al.
+    conference: "Radio Science (under review) (2025)"
 
-  -  title: "Vlf electric field observations of orbit-driven plasma waves in low earth orbit" 
+  - title: "Vlf electric field observations of orbit-driven plasma waves in low earth orbit" 
     link: "#"
-     authors: J. Hughes, I. Collett, C. Nasr, A. M. Newheart, R. Kelley, et al. 
-     conference: "Advances in Space Research (2025) "
+    authors: J. Hughes, I. Collett, C. Nasr, A. M. Newheart, R. Kelley, et al. 
+    conference: "Advances in Space Research (2025)"
 
-  -  title: "The long-term trend of thermospheric compositions from whole atmospheric simulation and satellite observation" 
+  - title: "The long-term trend of thermospheric compositions from whole atmospheric simulation and satellite observation" 
     link: "#"
-    authors: C.-T. Hsu, W. Wang, L. Qian, E. Aa, J. M. McInerney, S.-R.  Zhang, Y. Zhang, A. M. Newheart, and D. Lin 
-     conference: "JGR: Space Physics (under review) (2025) "
+    authors: C.-T. Hsu, W. Wang, L. Qian, E. Aa, J. M. McInerney, S.-R. Zhang, Y. Zhang, A. M. Newheart, and D. Lin 
+    conference: "JGR: Space Physics (under review) (2025)"
 
 recommendations:
   title: Recommendations
@@ -194,19 +194,19 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  -  name: MATLAB (10 years) 
+  - name: MATLAB (10 years) 
     level: 98%
 
-  -  name: Python (3 years) 
+  - name: Python (3 years) 
     level: 90%
 
-  -  name: Linux, HPC, Git, Jira, Bitbucket
+  - name: Linux, HPC, Git, Jira, Bitbucket
     level: 90%
 
-  -  name: Data Analysis & Physics-based modeling 
+  - name: Data Analysis & Physics-based modeling 
     level: 95%
 
-  -  name: Scientific Writing & Communication 
+  - name: Scientific Writing & Communication 
     level: 95%
 
 footer: >
