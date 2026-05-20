@@ -10,11 +10,11 @@ sidebar:
   # Profile information
   [cite_start]name: Anastasia Newheart [cite: 1]
   [cite_start]tagline: Ionospheric Researcher [cite: 19]
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  [cite_start]email:
-  [cite_start]phone:
+  email:
+  phone:
   timezone: America/Denver
   citizenship:
   website: 
