@@ -8,279 +8,206 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  [cite_start]name: Anastasia Newheart [cite: 1]
+  [cite_start]tagline: Ionospheric Researcher [cite: 19]
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  [cite_start]email: ana.newheart@gmail.com [cite: 3]
+  [cite_start]phone: 443-538-8049 [cite: 3]
+  timezone: America/Denver
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: 
+  linkedin: 
+  xing: 
+  github: 
+  telegram: 
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky: 
+  twitter: 
+  stack-overflow: 
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads: 
+  mastodon: 
+  hackerrank: 
+  leetcode: 
+  pdf: 
 
   languages:
     title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    info: []
 
   interests:
     title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
+    info: []
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Ph.D. in Physics and Astronomy with extensive experience in ionospheric research, data analysis, and space-based remote sensing. [cite: 6, 19, 21] Proven track record in developing space debris detection methods and evaluating data assimilation models. [cite: 20, 23] Strong leadership skills demonstrated through university advocacy and published mission concepts. [cite: 39, 42]
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - [cite_start]degree: Ph.D. in Physics and Astronomy [cite: 6]
+    [cite_start]university: Rice University [cite: 5]
+    [cite_start]time: August 2022 [cite: 5]
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Graduated with a Ph.D. in Physics and Astronomy. [cite: 6]
+  - [cite_start]degree: M.S. in Physics and Astronomy [cite: 8]
+    [cite_start]university: Rice University [cite: 7]
+    [cite_start]time: December 2018 [cite: 7]
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Graduated with an M.S. in Physics and Astronomy. [cite: 8]
+  - [cite_start]degree: B.A. in Physics and Astronomy [cite: 10]
+    [cite_start]university: St. Mary’s College of Maryland [cite: 9]
+    [cite_start]time: May 2016 [cite: 9]
+    details: |
+      Graduated Cum Laude. [cite: 11]
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - [cite_start]role: Ionospheric Researcher [cite: 19]
+    [cite_start]time: September 2023 - Present [cite: 18]
+    [cite_start]company: Orion Space Solutions [cite: 18]
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Evaluated a data assimilation model as an ionospheric forecasting tool and added features to the model in Python. [cite: 20]
+      - Validated remote sensing data (40GB in netCDF format) for the NASA Commercial Satellite Data Acquisition program by comparing to existing ground- and space-based observations to climatology. [cite: 21]
+      - Developed a CubeSat mission concept to examine mid- to low-latitude ionospheric irregularities. [cite: 22]
+      - Used statistical methods in Python to analyze plasma wave observations and develop a space debris detection method. [cite: 23]
+  - [cite_start]role: Advanced Study Program Postdoctoral Fellow [cite: 25]
+    [cite_start]time: October 2022 - September 2023 [cite: 24]
+    [cite_start]company: National Center for Atmospheric Research [cite: 24]
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Investigated the effects of geomagnetic storms using a coupled whole geospace model run on a high-performance computing system and compared these results to ground-based radar observations. [cite: 26]
+      - Examined long-term changes in the upper atmosphere using a whole atmosphere model and subtracting seasonal trends using MATLAB. [cite: 27]
+  - [cite_start]role: Graduate Research Assistant [cite: 29]
+    [cite_start]time: August 2016 - July 2022 [cite: 28]
+    [cite_start]company: Rice University [cite: 28]
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Used spectral methods to identify and characterize atmospheric waves in a large dataset (20-30GB per day of data in HDF5 format) from a distributed ground-based sensor network. [cite: 30]
+      - Analyzed the occurrence of ionospheric irregularities using Langmuir probe data from multiple satellites (International Space Station Floating Potential Meter Unit, Swarm and DMSP). [cite: 31]
+      - Examined the physical drivers behind ionospheric irregularities using model-data comparison to better forecast their occurrence. [cite: 32]
+  - [cite_start]role: DREAM2 Project Intern [cite: 34]
+    [cite_start]time: June 2014 - August 2016 [cite: 33]
+    [cite_start]company: NASA Goddard Space Flight Center [cite: 33]
+    details: |
+      - Reanalyzed Apollo era plasma data from the surface of the moon and developed procedures for identifying relevant data for statistical analysis of particle spectra using MATLAB. [cite: 35]
+  - [cite_start]role: Graduate Student Association Vice President of Student Advocacy [cite: 38]
+    [cite_start]time: April 2020 - April 2021 [cite: 37]
+    [cite_start]company: Rice University [cite: 37]
+    details: |
+      - Advocated for graduate student needs at the university level including university policy decisions and development projects. [cite: 39]
+      - Oversaw two directors within the Graduate Student Association. [cite: 40]
 
 certifications:
-  title: Certifications
+  title: Leadership & Training
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - [cite_start]name: Heliophysics Mission Design School [cite: 41]
+    [cite_start]start: June 2020 [cite: 41]
+    end: 
+    [cite_start]organization: Jet Propulsion Laboratory / NASA [cite: 42]
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      11 week course taught by Jet Propulsion Laboratory on the NASA mission design process resulting in a published mission concept. [cite: 42]
 
 projects:
-  title: Projects
+  title: Grants and Awards
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Research funding, academic awards, and fellowships received.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - [cite_start]title: Commercial Smallsat Data Acquisition New Vendor Onramp Evaluation Grant [cite: 44]
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    [cite_start]tagline: "$100,000 over one year to evaluate commercial radio occultation data for NASA. (September 2024) [cite: 44, 45]"
 
-  - title: Tempo
+  - [cite_start]title: Future Investigators in NASA Earth and Space Science and Technology Grant [cite: 46]
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    [cite_start]tagline: "$ 135,000 over three years to fund a graduate-student designed research project. (July 2020) [cite: 46, 47]"
 
-  - title: Atom
+  - [cite_start]title: NASA/Texas Space Grant Consortium Graduate Fellowship [cite: 48]
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    [cite_start]tagline: "$ 5000 award in recognition of excellence in academics and interest in space. (June 2019) [cite: 48, 49]"
 
-  - title: Delta
+  - [cite_start]title: John Mather Nobel Scholar at NASA Goddard Space Flight Center [cite: 50]
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    [cite_start]tagline: "$ 3000 travel award in recognition of high academic achievement and exemplary research at NASA Goddard. (July 2015) [cite: 50, 51]"
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  contributions: []
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Peer-reviewed journals and academic publications.
   papers:
-  - title: The Art of Computer Programming
+  - [cite_start]title: "Stair-step particle flux spectra on the lunar surface: evidence for nonmonotonic potentials?" [cite: 53]
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    [cite_start]authors: M. R. Collier, A. Newheart, A. R. Poppe, H. K. Hills, and W. M. Farrell [cite: 53]
+    [cite_start]conference: "Geophysical Research Letters 44, 79–87 (2017) [cite: 53]"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - [cite_start]title: "Prompt penetration and substorm effects over jicamarca during the september 2017 geomagnetic storm" [cite: 54]
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    [cite_start]authors: B. Fejer, L. Navarro, S. Sazykin, A. Newheart, M. Milla, and P. Condor [cite: 54]
+    [cite_start]conference: "Journal of Geophysical Research: Space Physics 126, e2021JA029651 (2021) [cite: 54]"
 
-  - title: A syntax directed compiler for Algol 60
+  - [cite_start]title: "Sun sailing polar orbiting telescope (sunspot): a solar polar imaging mission design" [cite: 55]
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    [cite_start]authors: A. Probst, T. Anderson, A. O. Farrish, C. B. Kjellstrand, A. M. Newheart, et al. [cite: 55]
+    [cite_start]conference: "Advances in Space Research, 10.1016/j.asr.2022.04.060 (2022) [cite: 55]"
+
+  - [cite_start]title: "Observations of night-time equatorial ionosphere structure with the fpmu on board the international space station" [cite: 56]
+    link: "#"
+    [cite_start]authors: A. M. Newheart, S. Sazykin, V. N. Coffey, M. O. Chandler, A. J. Coster, B. G. Fejer, J. I. Minow, and C. M. Swenson [cite: 56]
+    [cite_start]conference: "Journal of Geophysical Research: Space Physics 127, 10.1029/2022JA030373 (2022) [cite: 56]"
+
+  - [cite_start]title: "N-dimensional lomb scargle periodogram analysis of traveling ionospheric disturbances using ionosonde data" [cite: 58]
+    link: "#"
+    [cite_start]authors: J. Hughes, I. Collett, A. Newheart, R. Kelly, W. Wilson, et al. [cite: 57, 58]
+    [cite_start]conference: "Front. Astron. Space Sci. 11, 10.3389/fspas.2024.1519436 (2024) [cite: 58, 59]"
+
+  - [cite_start]title: "Relative merits of ionosondes, ground gnss tec, and radio occultations for ionospheric data assimilation" [cite: 60]
+    link: "#"
+    [cite_start]authors: J. Hughes, I. Collett, A. M. Newheart, C. Nasr, R. Blay, et al. [cite: 60]
+    [cite_start]conference: "Radio Science (under review) (2025) [cite: 60]"
+
+  - [cite_start]title: "Vlf electric field observations of orbit-driven plasma waves in low earth orbit" [cite: 61]
+    link: "#"
+    [cite_start]authors: J. Hughes, I. Collett, C. Nasr, A. M. Newheart, R. Kelley, et al. [cite: 61]
+    [cite_start]conference: "Advances in Space Research (2025) [cite: 61]"
+
+  - [cite_start]title: "The long-term trend of thermospheric compositions from whole atmospheric simulation and satellite observation" [cite: 63]
+    link: "#"
+    authors: C.-T. Hsu, W. Wang, L. Qian, E. Aa, J. M. McInerney, S.-R. [cite_start]Zhang, Y. Zhang, A. M. Newheart, and D. Lin [cite: 62, 63]
+    [cite_start]conference: "JGR: Space Physics (under review) (2025) [cite: 63]"
 
 recommendations:
   title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  list: []
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - [cite_start]name: MATLAB (10 years) [cite: 13]
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - [cite_start]name: Python (3 years) [cite: 13]
+    level: 90%
 
-  - name: Angular
-    level: 98%
+  - [cite_start]name: Linux, HPC, Git, Jira, Bitbucket [cite: 14]
+    level: 90%
 
-  - name: HTML5 & CSS
+  - [cite_start]name: Data Analysis & Physics-based modeling [cite: 15]
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+  - [cite_start]name: Scientific Writing & Communication [cite: 16]
+    level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
